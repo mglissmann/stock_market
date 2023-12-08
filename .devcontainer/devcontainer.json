@@ -35,7 +35,8 @@
 			"extensions": [
 				"ms-toolsai.jupyter",
 				"ms-python.python",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"GitHub.vscode-pull-request-github"
 			]
 		}
 	},
