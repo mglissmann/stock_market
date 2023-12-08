@@ -1,5 +1,5 @@
 {
-	"name": "Data Science (Python and R)",
+	"name": "Data Science",
 	"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
@@ -34,7 +34,8 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"ms-toolsai.jupyter",
-				"ms-python.python"
+				"ms-python.python",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	},
